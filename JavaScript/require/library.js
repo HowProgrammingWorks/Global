@@ -1,6 +1,6 @@
 'use strict';
 
-const f1 = x => x;
+const f1 = (x) => x;
 
 const f2 = () => 'result';
 
